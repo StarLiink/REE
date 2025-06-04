@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[667],{80667:function(c,b,a){a.r(b);var d=a(7792),e=a(67294),f=a(85893);b.default=function(a){var b=a.contentItem,c=(0,d.m)().RRStore;return(0,e.useEffect)(function(){c.setDynamicExperienceAttributes(b.attributes)},[c,b.attributes]),(0,f.jsx)(f.Fragment,{})}}}])
